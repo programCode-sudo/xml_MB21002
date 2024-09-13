@@ -1,0 +1,67 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    background-image: url("../imgs/indexBK.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.content {
+    flex: 1;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navbar-brand:hover {
+    color: #99bbdd;
+}
+
+.nav-link {
+    color: #c77c7c;
+    transition: color 0.1s, background-color 0.1s;
+}
+
+.nav-link:hover {
+    color: #007bff;
+    background-color: #e2e6ea;
+    border-radius: 0.25rem;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cpath stroke="rgba(255, 255, 255, 0.7)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 6h20M5 14h20M5 22h20"/%3E%3C/svg%3E');
+}
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.footer{
+    background-color: #3976b8d3;
+    color: whitesmoke;
+}

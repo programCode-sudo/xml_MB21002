@@ -1,0 +1,39 @@
+
+fichero {
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  ficha {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+  
+  ficha[id="1"] {
+    border-color: #007bff;
+  }
+  
+  nombre, apellido, direccion {
+    display: block;
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  nombre {
+    color: #2c3e50;
+  }
+  
+  apellido {
+    color: #8e44ad;
+  }
+  
+  direccion {
+    color: #16a085;
+  }
+  

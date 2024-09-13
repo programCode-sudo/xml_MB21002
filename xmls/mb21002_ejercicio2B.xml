@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./EstilosXml/estilosEjercicio2B.css"?>
+
+<pais nombre="El Salvador" moneda="Dólar estadounidense" codigoTelefonico="+503">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Na</autoctono>
+      <segundoIdioma>Na</segundoIdioma>
+    </idiomas>
+    <areaTerritorial>721 km²</areaTerritorial>
+  </departamento>
+  
+  <!-- segundo departamento con estructura modificada -->
+  <departamento id="2" nombre="Santa Ana">
+    <cabecera>Santa Ana</cabecera>
+    <habitantes>300,000</habitantes>
+    <altura>345 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Español mexico</autoctono>
+      <segundoIdioma>tailandes</segundoIdioma>
+    </idiomas>
+    <areaTerritorial>123 km²</areaTerritorial>
+  </departamento>
+
+  <!-- Tercer departamento con estructura modificada -->
+  <departamento id="3" nombre="La Libertad" moneda="Dólar estadounidense" areaTerritorial="940 km²">
+    <cabecera>La Libertad</cabecera>
+    <habitantes>150,000</habitantes>
+    <moneda>USD</moneda>
+    <altura>34 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Español españa</autoctono>
+      <segundoIdioma>Italiano</segundoIdioma>
+    </idiomas>
+    <codigoPostal>01000CP</codigoPostal>
+    <densidadPoblacional>50200</densidadPoblacional>
+    <principalesComercios>
+        <alimentos>Mariscos,Pescado</alimentos>
+        <turismo>Surfeo</turismo>
+    </principalesComercios>
+  </departamento>
+
+  <departamento id="4" nombre="San Salvador" moneda="Dólar estadounidense" areaTerritorial="886 km²">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>570,000</habitantes>
+    <moneda>USD</moneda>
+    <altura>658 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Nahuat</autoctono>
+      <segundoIdioma>Inglés</segundoIdioma>
+    </idiomas>
+    <codigoPostal>1101CP</codigoPostal>
+    <densidadPoblacional>64300</densidadPoblacional>
+    <principalesComercios>
+        <alimentos>Pupusas, Tamales</alimentos>
+        <turismo>Historia, Cultura</turismo>
+    </principalesComercios>
+  </departamento>
+
+  <departamento id="5" nombre="Santa Ana" moneda="Dólar estadounidense" areaTerritorial="2,023 km²">
+    <cabecera>Santa Ana</cabecera>
+    <habitantes>245,000</habitantes>
+    <moneda>USD</moneda>
+    <altura>665 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Nahuat</autoctono>
+      <segundoIdioma>Francés</segundoIdioma>
+    </idiomas>
+    <codigoPostal>2201CP</codigoPostal>
+    <densidadPoblacional>12100</densidadPoblacional>
+    <principalesComercios>
+        <alimentos>Café, Maíz</alimentos>
+        <turismo>Montañismo, Arqueología</turismo>
+    </principalesComercios>
+  </departamento>
+
+  <departamento id="6" nombre="San Miguel" moneda="Dólar estadounidense" areaTerritorial="2,077 km²">
+    <cabecera>San Miguel</cabecera>
+    <habitantes>218,000</habitantes>
+    <moneda>USD</moneda>
+    <altura>129 MSNM</altura>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Nahuat</autoctono>
+      <segundoIdioma>Alemán</segundoIdioma>
+    </idiomas>
+    <codigoPostal>3301CP</codigoPostal>
+    <densidadPoblacional>10500</densidadPoblacional>
+    <principalesComercios>
+        <alimentos>Arroz, Frutas</alimentos>
+        <turismo>Playas, Festividades</turismo>
+    </principalesComercios>
+  </departamento>
+
+</pais>

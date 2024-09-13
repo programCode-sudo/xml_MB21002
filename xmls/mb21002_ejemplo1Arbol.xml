@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+  <libro>
+    <titulo>El Gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <anio>1925</anio>
+  </libro>
+  <libro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <anio>1949</anio>
+  </libro>
+  <libro>
+    <titulo>Cien Años de Soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <anio>1967</anio>
+  </libro>
+  <libro>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <anio>1605</anio>
+  </libro>
+  <libro>
+    <titulo>Orgullo y Prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <anio>1813</anio>
+  </libro>
+</libreria>

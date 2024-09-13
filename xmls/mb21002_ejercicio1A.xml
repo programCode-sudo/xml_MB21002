@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="./EstilosXml/estilosEjercicio1A.css"?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Brandon jose</nombre>
+<apellido>Monterrosa Bernal</apellido>
+<direccion>Calle Tutunichapa, av 5 de noviembre</direccion>
+</ficha>
+</fichero> 

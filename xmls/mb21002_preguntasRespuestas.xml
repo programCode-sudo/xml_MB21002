@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./EstilosXml/estilosPreguntasRespuestas.css"?>
+<Cuestionario>
+    <encabezado>Cuestionario</encabezado>
+    <item>
+        <pregunta>
+            ¿Qué es un documento XML bien formado?
+        </pregunta>
+        <Respuesta>
+            Un documento XML bien formado es aquel que sigue las reglas básicas de sintaxis de XML, como tener una única raíz, etiquetas correctamente anidadas, y atributos entre comillas. Además, debe incluir una declaración XML al inicio.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+             ¿Cuál es la ventaja de usar XML para almacenar datos?
+        </pregunta>
+        <Respuesta>
+            La principal ventaja de usar XML es su flexibilidad y extensibilidad. Permite definir etiquetas personalizadas y estructurar datos de manera jerárquica, lo que facilita el intercambio de información entre diferentes sistemas y plataformas.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Cómo se puede verificar si un documento XML está bien formado?
+        </pregunta>
+        <Respuesta>
+            Se puede verificar si un documento XML está bien formado utilizando herramientas de validación XML, editores de texto con soporte para XML, o teclas de función como F2 en algunos editores. Estas herramientas revisan la sintaxis y aseguran que todas las reglas de XML se cumplan.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Qué se debe hacer si un documento XML no está bien formado?
+        </pregunta>
+        <Respuesta>
+            Si un documento XML no está bien formado, se deben identificar y corregir los errores de sintaxis. Esto puede incluir cerrar etiquetas abiertas, corregir el anidamiento de etiquetas, y asegurar que todos los atributos estén entre comillas. Utilizar herramientas de validación puede ayudar a identificar estos errores rápidamente.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Qué es un DTD en XML?
+        </pregunta>
+        <Respuesta>
+            Un DTD (Definición de Tipo de Documento) en XML es un conjunto de reglas que define la estructura y los elementos permitidos en un documento XML. Ayuda a validar que el contenido del documento cumple con una estructura predefinida.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Qué es un esquema XML?
+        </pregunta>
+        <Respuesta>
+            Un esquema XML es una descripción más poderosa y flexible que un DTD para definir la estructura de un documento XML. Utiliza el lenguaje XML Schema para especificar los elementos, atributos y tipos de datos permitidos en el documento.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Cuál es la diferencia entre XML y HTML?
+        </pregunta>
+        <Respuesta>
+            La principal diferencia entre XML y HTML es su propósito. XML se utiliza para transportar y almacenar datos, mientras que HTML se utiliza para mostrar datos en una página web. XML es extensible y permite definir etiquetas personalizadas, mientras que HTML tiene un conjunto fijo de etiquetas.
+        </Respuesta>
+    </item>
+
+    <item>
+        <pregunta>
+            ¿Qué es XSLT?
+        </pregunta>
+        <Respuesta>
+            XSLT (Extensible Stylesheet Language Transformations) es un lenguaje para transformar documentos XML en otros formatos, como HTML, texto plano o incluso otros documentos XML. Utiliza plantillas para definir cómo se debe transformar cada parte del documento XML.
+        </Respuesta>
+    </item>
+</Cuestionario>

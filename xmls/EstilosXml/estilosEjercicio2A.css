@@ -1,0 +1,85 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+
+  pais {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-image: url("../imgs/fondo2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    min-height: 700px; 
+  }
+  
+  departamento {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    display: block;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 300px; 
+    text-align: center;
+  }
+  
+  departamento:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+
+  cabecera {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #00796b; 
+    margin-top: 0;
+  }
+  
+
+  habitantes, altura, idiomas, areaTerritorial {
+    display: block;
+    margin-top: 10px;
+    font-size: 1em;
+  }
+  
+
+  idiomas {
+    margin-top: 15px;
+    border-top: 2px solid #00796b;
+    padding-top: 10px;
+  }
+  
+  idiomas > * {
+    margin: 5px 0;
+    font-style: italic;
+    color: #004d40; 
+  }
+  
+
+  departamento > * {
+    color: #555;
+  }
+  
+
+  nombre, apellido {
+    font-family: 'Georgia', serif;
+  }
+  
+  

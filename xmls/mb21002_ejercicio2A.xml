@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./EstilosXml/estilosEjercicio2A.css"?>
+
+<pais nombre="El Salvador" moneda="Dólar estadounidense" codigoTelefonico="+503">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+
+  
+  <!-- Segundo departamento con datos adicionales -->
+  <departamento id="2" nombre="San Salvador" codigoArea="+503">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <moneda>USD</moneda>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Español latinoamericano</autoctono>
+      <segundoIdioma>Inglés</segundoIdioma>
+    </idiomas>
+    <areaTerritorial>545 km²</areaTerritorial>
+  </departamento>
+
+  <departamento id="3" nombre="La Libertad" codigoArea="+503">
+    <cabecera>Santa Tecla</cabecera>
+    <habitantes>212,000</habitantes>
+    <altura>900 MSNM</altura>
+    <moneda>USD</moneda>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Nahuat</autoctono>
+      <segundoIdioma>Francés</segundoIdioma>
+    </idiomas>
+    <areaTerritorial>1,653 km²</areaTerritorial>
+  </departamento>
+
+  <departamento id="4" nombre="Santa Ana" codigoArea="+503">
+      <cabecera>Santa Ana</cabecera>
+      <habitantes>245,000</habitantes>
+      <altura>665 MSNM</altura>
+      <moneda>USD</moneda>
+      <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Nahuat</autoctono>
+        <segundoIdioma>Inglés</segundoIdioma>
+      </idiomas>
+      <areaTerritorial>2,023 km²</areaTerritorial>
+  </departamento>
+
+  <departamento id="5" nombre="San Miguel" codigoArea="+503">
+      <cabecera>San Miguel</cabecera>
+      <habitantes>218,000</habitantes>
+      <altura>129 MSNM</altura>
+      <moneda>USD</moneda>
+      <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Nahuat</autoctono>
+        <segundoIdioma>Alemán</segundoIdioma>
+      </idiomas>
+      <areaTerritorial>2,077 km²</areaTerritorial>
+  </departamento>
+
+  <departamento id="6" nombre="Usulután" codigoArea="+503">
+      <cabecera>Usulután</cabecera>
+      <habitantes>350,000</habitantes>
+      <altura>90 MSNM</altura>
+      <moneda>USD</moneda>
+      <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Nahuat</autoctono>
+        <segundoIdioma>Italiano</segundoIdioma>
+      </idiomas>
+      <areaTerritorial>2,130 km²</areaTerritorial>
+  </departamento>
+
+</pais>
